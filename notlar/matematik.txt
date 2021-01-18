@@ -1,0 +1,63 @@
+Yamuk alan formülü: A = (a+c).h/2
+Paralelkenar alan formülü: A = a.h
+Çember yay uzunluğu: Ç = 2.π.r.x/360°
+Çember çevresi: Ç = 2.π.r
+Çokgen iç açılar toplamı: (n-2).180°
+Doğru eğimi: Eğim = b/c
+İki kare farkı: a² – b² = (a–b).(a+b)
+İki küp farkı: a³ – b³ = (a–b).(a²+ab+b²)
+Pisagor bağıntısı: a² = b²+c²
+Tam kare: (a+b)² = a²+2ab+b²
+Daire alanı: A = π.r.r
+Dış açılar toplamı her zaman 360°
+Daire dilimi alanı: A = π.r.r.x/360°
+Üçgen alanı: A = x.h
+Üslü sayılar çarpımında üsler toplanır.
+Üslü sayılar bölümünde üsler çıkartılır.
+Dikdörtgenler prizması hacmi: H = en.boy.yükseklik
+Kare prizma hacmi: H = taban alan.yükseklik
+n kenarlı dışbükey çokgenin köşegen sayısı: n.(n-3)/2
+Bir olayın olasılığı = istenilen durumlar/tüm durumlar
+Faktöriyel: n! = 1.2.3....n örneğin 3! = 1.2.3 = 6
+Orantıda a/b = c/d ise a.d = b.c
+Rakamlar: 0,1,2,3,4,5,6,7,8,9
+Doğal sayılar: 0,1,2,3,4,5,6........sonsuz.
+Sayma sayıları: 1,2,3,4,5,6,7........sonsuz.
+Tam sayılar: -sonsuz.....-2,-1,0,1,2.....sonsuz.
+İşlem önceliği: Parantez içi, çarpma ve bölme, toplama ve çıkarma.
+Trigonometri: Sinüs = karşı/hipotenüs
+Trigonometri: Kosinüs = komşu/hipotenüs
+Trigonometri: Tanjant = karşı/komşu
+Trigonometri: Kotanjant = komşu/karşı
+Özel üçgenler: 3k-4k-5k, 5k-12k-13k, 7k-24k-25k, 8k-15k-17k
+Fonksiyon, tanım kümesindeki her elemanı, değer kümesindeki yalnız bir elemana eşleyen kuraldır.
+İçine fonksiyon: Değer kümesinde açıkta eleman vardır.
+Örten fonksiyon: Değer kümesinde açıkta eleman kalmamalıdır.
+Sabit fonksiyon: A'nın elemanları, B'de sadece bir elemanla eşleşmelidir.
+Sabit fonksiyonlar çift fonksiyonlardır.
+A'dan B'ye tanımlanabilecek sabit fonksiyon sayısı s(B) dir.
+Birim fonksiyon: Her eleman kendisi ile eşleşmelidir.
+Birim fonksiyonlar tek fonksiyonlardır.
+Birebir fonksiyon: Her eleman kendisinden farklı bir elemanla eşleşmelidir.
+Parçalı fonksiyonlarda fonksiyon kuralının değiştiği noktalara kritik nokta denir.
+Fonksiyonlarda dört işlem yapılırken fonksiyonların tanım kümelerinin kesişimi alınır.
+Kuralı verilen bir fonksiyonda istenen değeri bulmak için değişken yerine uygun değer verilir.
+Sonlu küme: Eleman sayısı doğal sayı olan kümelerdir.
+Sonsuz küme: Elemanları bilinen fakat sayılamayan kümelerdir.
+Boş küme: Hiçbir elemanı olmayan kümelerdir.
+Eşit küme: Aynı elemanlardan oluşan kümelerdir.
+Denk küme: Eleman sayıları eşit olan kümelerdir.
+Ayrık küme: Ortak elemanı olmayan kümelerdir.
+Alt küme: A kümesinin her elemanı, B kümesinin de elemanı ise A kümesi B'nin alt kümesidir.
+Alt küme sayısı: n elemanlı bir kümenin alt küme sayısı 2ⁿ dir.
+Öz alt küme: Bir kümenin kendisinden farklı tüm alt kümelerine denir.
+Öz alt küme sayısı: n elemanlı bir kümenin öz alt küme sayısı 2ⁿ-1 dir.
+Evrensel küme: Bütün kümeleri kapsayan kümedir ve E sembolü ile gösterilir.
+Kuvvet kümesi: Bir kümenin alt kümelerinin oluşturduğu kümelerdir.
+Ortalama hız: Toplam alınan yol/zaman
+İki kişinin yaşları arasındaki fark hiç değişmez.
+Ebob: Sıfırdan farklı iki veya daha fazla tam sayının, pozitif ortak bölenlerinden en büyüğüne denir.
+Aralarında asal sayıların ebob'u 1 dir.
+Ekok: Sıfırdan farklı iki veya daha fazla tam sayının, pozitif ortak katlarından en küçüğüne denir.
+İki sayının çarpımı, bu sayıların ebob ve ekok'unun çarpımına eşittir.
+Birbirinin tam katı olan iki pozitif tam sayının ebob'u küçük sayıya, ekok'u büyük sayıya eşittir.

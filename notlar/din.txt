@@ -1,0 +1,56 @@
+Tecvit: Kur'an'ın usulüne uygun okunmasıdır.
+Mushaf: Kur'an'ın ilk defa kitap haline getirilmiş nüshası.
+Mukabele: Kur'an'ın karşılıklı okunması.
+Tefsir: Kur'an'ın en geniş anlamda açıklanması.
+Mükellef: Ergenlik çağına girmiş, aklı yerinde, dini anlamda sorumlu bireyler.
+Eda: Zamanında yapılan ibadet demektir.
+Fetanet: Zekilik anlamına gelir.
+Sıdk: Doğruluk anlamına gelir.
+İsmet: Günah işlememek anlamına gelir.
+Vahdaniyet: Tanrı’nın bir ve tek oluşu inancıdır.
+Tebliğ: Allah'tan aldığı mesajı insanlara iletmek anlamına gelir.
+İslam öncesi Arap yaşamına Cahiliye Dönemi denir. Sebebi sapkın geleneklerdir.
+Zati sıfatlar: Sadece Allah'a mahsus olan sıfatlardır.
+Zati sıfatlardan Vücut: Var olmak demektir.
+Zati sıfatlardan Kıdem: Ezeli olmak, başlangıcı olmamak demektir.
+Zati sıfatlardan Beka: Varlığının sonu olmamak, ebedi olmak demektir.
+Zati sıfatlardan Muhalefetün Lil-havadis: Sonradan olan şeylere benzememek demektir.
+Zati sıfatlardan Vahdaniyet: Allah'ın bir ve tek olması, eşi ve benzerinin olmaması anlamına gelir.
+Zati sıfatlardan Kıyam bi-Nefsihi: Var olmak için başka bir varlığa ihtiyaç duymamak anlamına gelir.
+Subuti sıfatlar: Varlığı zorunlu olan ve kemal ifade eden sıfatlardır, olumlu ifadelerle Allah’ı tanıttığı için bu adı almışlardır.
+Subuti sıfatlardan Hayat: Diri ve canlı olmak anlamına gelir.
+Subuti sıfatlardan İlim: Bilmek anlamına gelir.
+Subuti sıfatlardan Semi: İşitmek anlamına gelir.
+Subuti sıfatlardan Basar: Görmek anlamına gelir.
+Subuti sıfatlardan İrade: Dilemek anlamına gelir.
+Subuti sıfatlardan Kudret: Gücü yetmek anlamına gelir.
+Subuti sıfatlardan Kelam: Söylemek ve konuşmak anlamına gelir.
+Subuti sıfatlardan Tekvin: Yaratmak, yok olanı yokluktan varlığa çıkarmak anlamına gelir.
+Cami ve mescitler: Hz.Peygamberin mescidi hem ibadet hem yönetim hem de eğitim merkeziydi.
+Mektepler: İslam ülkelerinde çocuklara temel eğitimin verildiği kurumlardır.
+Medreseler: Üniversite statüsünde eğitim kurumlarıdır.
+Beytülhikmeler ve Kütüphaneler: Beytülhikme "Bilgi Evi" anlamına gelir.
+Rasathaneler: Gökyüzü olaylarıyla ilgili gözlem yapmak için kurulmuşlardır.
+Şifahaneler: İslam dünyasında hastaneye olarak kullanılan yapılardır.
+Taklidi iman: İmanın taklit yoluyla oluşmasıdır. Araştırmaya dayanmaz.
+Tahkiki iman: Delil ve araştırmaya bağlı oluşan imandır.
+Meal: Ayetlerin tam karşılığı başka dillere aktarılamadığı için başka dillere yakın anlamların anlatılması.
+Vahiy: Kuran ayet ve surelerinin Hz.Muhammed'e indirilmesi.
+Hatemül enbiya: Son peygamber anlamına gelmektedir.
+Hatimül enbiya: Tatlı dilli, hitabeti güzel anlamına gelmektir.
+Farz: Allah'ın yapılmasını kesin olarak emrettiği fiillere denir.
+Vacip: Allah'ın yapılmasını ve yerine getirilmesini istediği fiillere denir.
+Sünnet: Hz.Muhammed'in örnek davranışlarına verilen isim.
+Mendup: Yapılması öğütlenen ama yapılmamasında sakına olmayan davranışlardır.
+Mübah: Yapılması emredilmeyen ve yasaklanmayan davranışlardır.
+Haram: Allah'ın yapılmasını kesin olarak yasakladığı fiillere denir.
+Mekruh: Allah'ın yapılmasını istemediği davranışlardır.
+Müfsid: Meşru olan bir işi veya ibadeti bozan davranışlardır.
+Dinin bireysel faydaları: İç huzuru sağlar, güven duygusu verir, sorumluluk bilincini geliştirir.
+Dinin toplumsal faydaları: Genel ahlakı yaygınlaştırır, kötülüklerden alıkoyar, dayanışmayı sağlar.
+Dinin amaçları: İnsanlara erdemli hayat yaşatmak, toplumsal huzuru oluşturmak, hayatı anlamlandırmaya yardımcı olmak.
+İnsanları diğer varlıklardan ayıran iki temel özellik akıl ve iradedir.
+Yakin: Aksine ihtimal olmayan, kesinlik derecesinde sağlam bilgi.
+Zan: Kesinlik derecesinde olmayan lakin şüpheden daha sağlam olan bilgi.
+Şüphe: Aksiyle birlikte iki ihtimalin de eşit olduğu bilgi.
+Vehim: Kuruntu, zayıf bilgi.
