@@ -6,4 +6,4 @@ Satır 5: Tekrar
 Satır 6: Deneme
 Satır 7: Yapıyoruz
 Satır 8: Buradan herkese selamlar
-4boş satır olmuş
+Satır 9: Satır olmuş
