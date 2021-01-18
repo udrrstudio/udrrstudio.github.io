@@ -1,5 +1,0 @@
-Satır 1: Selam
-Satır 2: Merhaba
-Satır 3: Deniyoruz
-Satır 4: Unity
-fsaasap
