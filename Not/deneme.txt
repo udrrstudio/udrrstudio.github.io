@@ -1,9 +1,0 @@
-Satır 1: Selam
-Satır 2: Merhaba
-Satır 3: Deniyoruz
-Satır 4: Unity
-Satır 5: Tekrar
-Satır 6: Deneme
-Satır 7: Yapıyoruz
-Satır 8: Buradan herkese selamlar
-Satır 9: Satır olmuş
