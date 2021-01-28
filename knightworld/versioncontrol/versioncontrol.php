@@ -2,7 +2,7 @@
 
 switch ($_REQUEST["KnightWorld"])
 {
-	case "VersionControl":
+	case VersionControl:
 	$version = "1";
 	echo $version;
 	break;
