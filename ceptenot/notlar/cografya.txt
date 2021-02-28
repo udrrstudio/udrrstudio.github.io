@@ -1,0 +1,100 @@
+Türkiye'nin orta kuşakta yer almasının sonuçları: Batı rüzgarları, cephe yağışları, dört mevsim, Akdeniz iklimi.
+Ülkemizde ekim alanı geniş ürünler: Buğday, elma, tütün, üzüm, şeker pancarı.
+Kutuplara gidildikçe azalanlar: Sıcaklık, deniz tuzluluğu, kalıcı kar sınırı, meridyen arası uzaklık.
+Akdeniz: Türkiye'nin en tuzlu denizi. Kızıldeniz: Dünya'nın en tuzlu denizi. Baltık: Dünya'nın en az tuzlu denizi.
+Basınç: Havadaki su buharı ve gazların cisimler üzerine uyguladığı ağırlığa basınç denir.
+Yükselti arttıkça basınç azalır.
+Sıcaklık arttıkça basınç azalır.
+Gazların yoğunluğu arttıkça basınç artar.
+Yer çekimi arttıkça basınç artar.
+Termik basınç sıcaklığa bağlıdır. Volkanizma sonucu verimli topraklar oluşur. Mevsim oluşması eksen eğriliğinin sonucudur.
+Dinamik basınç dünyanın günlük hareketine bağlıdır.
+Rüzgarlar her zaman yüksekten alçak basınca doğru eser. Föhn rüzgarları yağışları engeller.
+Büyük ölçekli haritaların gösterdiği alan dardır, ölçeğin paydası küçüktür. Az hata vardır ve ayrıntı fazladır.
+En uzun akarsu Kızılırmak'tır.
+Akarsu havzası: Akarsuyun bütün kolları ile birlikte kapladığı alana denir.
+Bitki çeşitliliğinin en fazla olduğu bölge Marmara'dır.
+En az yağış alan bölge İç Anadolu'dur.
+Aynı enlemdeki yerlerin; güneş ışığını alma açıları, gölge boyları ve yönleri, çizgisel hızları, yer çekimi kuvveti, kutuplara olan uzaklıkları aynıdır.
+Soğuk yerel rüzgarlar: Bora, imbat, mistral, poyraz, etezyen, krivetz.
+Troposfer: Atmosferin an alt tabakasıdır. Yoğunluğu en fazla olan katmandır. Su buharının tamamı bu katmandadır, iklim olayları burada oluşur.
+Stratosfer: Troposferin üstündeki katmandır. Sıcaklık -50 derecedir. Ozon tabakası zararlı ışınları süzer.
+Mezosfer: Stratosferin üstündeki katmandır. Atmosfere giren meteorların yandığı katmandır.
+Termosfer: En sıcak katmandır. Radyo dalgalarını çok iyi iletir.
+Ekzosfer: En dış katmandır. Yer çekimi en az olan katmandır. Uydular burada bulunur.
+Toprakta A horizonu: En üstte yer alan, bitki köklerinin tutunduğu katmandır.
+Toprakta B horizyonu: En üst katman olan A horizyonundan sızan minerallerin biriktiği katmandır.
+Toprakta C horizyonu: Ana kayanın iri parçalar halinde parçalandığı katmandır.
+Toprakta D horizyonu: Henüz toprak oluşumunun başlamadığı ana kayadan oluşan katmandır.
+Ege'de yetişen tarım ürünleri: Zeytin, üzüm, haşhaş, tütün, incir.
+En verimli toprak Çernezyomdur.
+Zonal topraklar: Yerli topraklardır.
+Zonal topraklardan Laterit: Dönenceler arasındaki sıcak ve nemli bölgelerde görülür.
+Zonal topraklardan Podzol: Soğuk nemli bölgelerde, iğne yapraklı ormanların altında oluşur. Mineral bakımından fakirdir.
+Zonal topraklardan Tundra: Kışın donarlar ve yazın çözülerek bataklık haline gelirler.
+Zonal topraklardan Terra Rossa: Kırmızı toprak da denir. Akdeniz ikliminde görülür, kireçlidir.
+Zonal topraklardan Çöl Toprakları: Çöllerde meydana gelen toprak çeşididir.
+Sıcak su akıntıları: Alaska, Brezilya, Gulf Stream, Mozambik, Kuro Şivo, Doğu Avustralya.
+Soğuk su akıntıları: Kaliforniya, Kanarya, Benguela, Oya Şivo, Humbolt, Batı Avustralya, Labrador.
+Dünya'da en fazla yağış alan yerler: Hindistan, Çin, Japonya, Amazon, Kongo, Batı Kanada.
+Dünya'da en az yağış alan yerler: Antartika, Büyük Sahra, Kızılkum, Karakum, Grönland, Gobi.
+Türkiye'de en fazla yağış alan yerler: Doğu ve Batı Karadeniz kıyıları, Nur Dağları, Güneydoğu Toroslar.
+Türkiye'de en az yağış alan yerler: Iğdır Ovası, Malatya Ovası, Ergene Havzası, Tuz Gölü çevresi.
+Nüfus: Sınırları belirli bir alan içerisindeki insan sayısıdır.
+TÜİK: Ülkemizde nüfus sayımını yapan kuruluştur.
+Cumhuriyet döneminde ilk nüfus sayımı, 1927 yılında ve 16,6 milyon nüfus ile yapılmıştır.
+Beyin göçü veren ülkeler: Hindistan, Pakistan, Çin, İran, Türkiye.
+Beyin göçü alan ülkeler: ABD, Kanada, Fransa, Avustralya, Kanada.
+Göç nedenleri: Nüfus artışı, iş imkanları, miras ile tarım topraklarının parçalanması.
+En büyük kıta: Asya kıtası.
+En küçük kıta: Avustralya kıtası.
+Boylam: Herhangi bir noktanın başlangıç meridyenine olan uzaklığıdır.
+Her 15 boylam 1 saat dilimidir.
+Ekvatorda yıl boyunca 12 saat gece, 12 saat gündüz yaşanır.
+Meridyen: Bir kutup noktasından başlayıp diğer kutup noktasında biten, Ekvator’u dik kesen yaylardır. Toplam 360 tanelerdir.
+Paralel: Ekvator çizgisine paralel birer derece aralıklarla çizilen dairelerdir. Toplam 180 tanelerdir.
+Akdenizdeki Karstik ovalar: Tefenni, Acıpayam, Korkuteli, Kestek, Elmalı.
+Yerel saat her zaman doğuda ileridir.
+Gideğeni olan göller tatlı göllerdir.
+Gideğeni olmayan göller tuzlu ya da sodalıdır.
+Eş sıcaklık eğrilerine izoterm denir.
+Yüksek basınçta hava genellikle açık ve güneşlidir.
+Vadi: Akarsunun içine aktığı uzun çukurlardır.
+Yamaç: Yeryüzündeki eğimli yüzeylerdir.
+Ova: Çevresine göre çukurda kalmış düzlüklerdir.
+Doruk: Dağın en yüksek yeridir.
+Artezyen: Basınçlı yer altı sularıdır.
+En uzun gece 21 Aralık'tır.
+En uzun gündüz 21 Haziran'dır.
+Dünya çekirdek, manto, kabuk olmak üzere iç içe 3 katmandan oluşur.
+Bakı: Herhangi bir yerin güneşe göre konumuna bakı denir.
+En engebeli bölge: Karadeniz.
+En yüksek bölge: Doğu Anadolu.
+En düz bölge: G.Doğu Anadolu.
+En derin göl: Baykal Gölü.
+Nüfus dağılımını etkileyen faktörler: Su, ekonomi, yer şekilleri, iklim, toprak.
+Rüzgarların oluşturduğu aşındırma şekilleri: Mantarkaya, tafoni, yardang, şahittepe.
+Rüzgarların oluşturduğu biriktirme şekilleri: Kumul, barkan, lös.
+Dağların oluşturduğu aşındırma şekilleri: Falez, köprü, mağara.
+Dağların oluşturduğu biriktirme şekilleri: Plaj, lagün, kıyı kordonu, tombolo.
+Türkiye'deki karstik göller: Salda, Obruk, Ketsel, Avlan, Kızılören.
+Volkanik set gölleri: Van, Balık, Nazik, Haçlı, Erçek, Çıldır.
+Birincil ekonomik faaliyetler: Tarım, hayvancılık, ormancılık, balıkçılık, madencilik.
+İkincil ekonomik faaliyetler: Sanayi, inşaat, enerji üretimi, bayındırlık.
+Üçüncül ekonomik faaliyetler: Ulaşım, güvenlik, bankacılık, sağlık, pazarlama, eğitim.
+Dördüncül ekonomik faaliyetler: Donanım, yazılım, grafik, tasarım, online hizmetler.
+Beşincil ekonomik faaliyetler: Sektör yöneticiliği, CEO
+Hidrografya: Sular coğrafyası.
+Biyocoğrafya: Canlılar coğrafyası.
+Jeomorfoloji: Yer bilimi.
+Klimatoloji: İklim bilimi.
+Zooloji: Hayvan bilimi.
+Kartografya: Harita bilimi.
+Limnoloji: Göl bilimi.
+Pedoloji: Toprak bilimi.
+Demografi: Nüfus bilimi.
+İstanbul ve Çanakkale Boğazları: Dünya'nın en işlek su yollarındandır.
+Malakka Boğazı: Malezya ve Endonezya arasındadır. Dünya ticaretinin çeyreğininin yapıldığı boğazdır.
+Hürmüz Boğazı: Ortadoğu petrollerinin yarısının geçtiği boğazdır.
+Cebelitarık Boğazı: Afrika ile Avrupa'yı ayıran boğazdır. Atlas Okyanusu'nu Akdeniz'e bağlar.
+Bering Boğazı: Pasifik ve Atlantik Okyanusu'nu birbirine bağlar. Dünya'nın en pahalı kanalıdır.
