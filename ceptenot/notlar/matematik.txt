@@ -11,7 +11,7 @@ Tam kare: (a+b)² = a²+2ab+b²
 Daire alanı: A = π.r.r
 Dış açılar toplamı her zaman 360°
 Daire dilimi alanı: A = π.r.r.x/360°
-Üçgen alanı: A = x.h
+Üçgen alanı: A = (x.h)/2
 Üslü sayılar çarpımında üsler toplanır.
 Üslü sayılar bölümünde üsler çıkartılır.
 Dikdörtgenler prizması hacmi: H = en.boy.yükseklik
