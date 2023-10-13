@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
+
+:root{
+  --main-color:#3BB9FF;
+}
+
+*{
+    font-family: 'Nunito', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    transition: all .2s linear;
+}
+
+*::selection{
+    background:var(--main-color);
+    color: #ffffff;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #21272b;
+}
+
+section{
+    padding:2rem 7%;
+    min-height: 100vh;
+}
+
+.topbutton a{
+    padding: 1rem 2rem;
+    background:var(--main-color);
+    border-radius: .5rem;
+    color:#fff;
+    font-size: 2.5rem;
+    cursor: pointer;
+    
+    display: none;
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 99;
+}
+
+.heading{
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 6rem;
+    color:#fff;
+}
+
+.heading span{
+    color:var(--main-color);
+}
+
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    padding:.8rem 3rem;
+    background:#4a5862;
+    border-radius: 2rem;
+    color:#fff;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background:var(--main-color);
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.home .content{
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.home .content img{
+    height: 25rem;
+    width:25rem;
+    border-radius: 50%;
+    object-fit: cover;
+    border:.5rem solid #fff;
+}
+
+.home .content h3{
+    font-size: 4rem;
+    color:#fff;
+    padding:1rem 0;
+}
+
+.home .content h3 span{
+    color:var(--main-color);
+}
+
+.home .content p{
+    color:#fff;
+    font-size: 2.5rem;
+    line-height: 2;
+}
+
+.home .content .btn{
+    display: inline-block;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    padding:.9rem 2rem;
+    width:50%;
+    background:#4a5862;
+    border-radius: 2.5rem;
+    color:#fff;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.home .content .btn:hover{
+    background:var(--main-color);
+}
+.about .row{
+    display: flex;
+    flex-wrap: wrap;
+    gap:1.5rem;
+    align-items: center;
+}
+
+.about .row .content{
+    flex:1 1 55rem;
+}
+
+.about .row .content h3{
+    color:#fff;
+    font-size: 2.5rem;
+}
+
+.about .row .content ul li{
+    font-size: 2rem;
+    color:#eee;
+    padding:.5rem 0;
+    list-style: none;
+}
+
+.about .row .content .info{
+    color:#fff;
+    font-size: 2rem;
+    padding:1rem 0;
+    line-height: 2;
+}
+
+.projects .box-container{
+  display: grid;
+  -ms-grid-columns: (minmax(41rem, 1fr))[auto-fit];
+  grid-template-columns: repeat(auto-fit, minmax(41rem, 1fr));
+  gap: 5rem;
+}
+
+.projects .box-container .box{
+    flex: 1 1 30rem;
+    border-radius: .5rem;
+    box-shadow: inset 0 0 8rem 2rem #4a5862;
+}
+
+.projects .box-container .box img{
+    height:25rem;
+    width:100%;
+    border-radius: .5rem .5rem 0 0;
+    object-fit: cover;
+}
+
+.projects .box-container .box h3{
+    color: #fff;
+    font-size: 2.5rem;
+    padding:.5rem 0;
+    text-align: center;
+}
+
+.projects .box-container .box p{
+    color:#fff;
+    font-size: 1.7rem;
+    padding:.5rem 0;
+    text-align: center;
+}
+
+.projects .box-container a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.2rem;
+  border-radius: 0 0 .5rem .5rem;
+}
+
+.contact .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contact .row .content{
+    flex:1 1 30rem;
+}
+
+.contact .row .content .title{
+    color:#fff;
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
+
+.contact .row .content .info h3{
+    display: flex;
+    align-items: center;
+    font-size: 2.5rem;
+    color:#eee;
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.contact .row .content .info h3 i{
+    padding-right: 1rem;
+    color:var(--main-color);
+}
+
+.contact .row .content .info h3 a{
+    color:#eee;
+}
+
+.contact .row .content .info h3 a:hover{
+    color:var(--main-color);
+}
+
+.footer{
+    padding:2.5rem;
+    font-size: 2rem;
+    color:#fff;
+    text-align: center;
+}
+
+/* media queries  */
+@media (max-width:991px){
+
+    html{
+        font-size: 55%;
+    }
+
+    section{
+        padding:3rem;
+    }
+
+    #menu-bars{
+        display: initial;
+    }
+}
+
+@media (max-width:450px){
+
+    html{
+        font-size: 50%;
+    }
+
+    .heading{
+        font-size: 4rem;
+    }
+
+    .projects .box-container{
+      grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  }
+}
